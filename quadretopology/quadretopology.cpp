@@ -1594,7 +1594,7 @@ void computeResult(
 
         typename PolyMeshType::ScalarType maxDistance = internal::averageEdgeLength(result) * resultSmoothingLaplacianNRing;
 
-        internal::LaplacianGeodesicSmoothing(result, resultSmoothingLaplacianIterations, maxDistance, 0.7);
+        internal::LaplacianGeodesicSmoothing(result, resultSmoothingLaplacianIterations, maxDistance, 0.8);
 
         vcg::PolygonalAlgorithm<PolyMeshType>::UpdateFaceNormalByFitting(result);
         vcg::tri::UpdateNormal<PolyMeshType>::PerVertexNormalized(result);
