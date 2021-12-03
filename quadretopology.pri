@@ -3,8 +3,12 @@ INCLUDEPATH += $$PWD
 #Include patterns
 include($$PWD/patterns/patterns.pri)
 
-#Include libiglfields
-include($$PWD/libiglfields/libiglfields.pri)
+HEADERS += \
+    $$PWD/quadretopology/includes/fields/n_polyvector.h \
+    $$PWD/quadretopology/includes/fields/polyroots.h
+SOURCES += \
+    $$PWD/quadretopology/includes/fields/n_polyvector.cpp \
+    $$PWD/quadretopology/includes/fields/polyroots.cpp
 
 SOURCES += \
         $$PWD/quadretopology/includes/qr_charts.cpp \

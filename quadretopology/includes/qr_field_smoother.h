@@ -34,13 +34,13 @@
 #include <vcg/complex/algorithms/mesh_to_matrix.h>
 
 //igl related stuff
-
-#include <libiglfields/n_polyvector.h>
 #include <igl/principal_curvature.h>
 #include <igl/igl_inline.h>
 
+#include "fields/n_polyvector.h"
+
 #ifdef COMISO_FIELD
-#include <libiglfields/include/igl/copyleft/comiso/nrosy.h>
+#include <igl/copyleft/comiso/nrosy.h>
 #endif
 
 namespace QuadRetopology {

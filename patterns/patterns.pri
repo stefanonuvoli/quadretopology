@@ -8,10 +8,6 @@ OPENMESH_PATH = $$PWD/patterns/OpenMesh
 PATCHGEN_PATH = $$PWD/patterns/patchgen
 KT_PATH = $$PWD/patterns/kt84
 
-
-#Libs
-LIBS += -ldl -lm
-
 #Main files
 SOURCES += \
     $$PWD/patterns/Patch.cpp \
