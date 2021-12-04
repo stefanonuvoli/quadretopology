@@ -1,8 +1,6 @@
 # Quadretopology
 
-This module provides some functionalities for the quad-layout decomposition and the quad-remeshing of 3D triangle meshes.
-
-This code was part of the following projects:
+This module provides some functionalities for the quad-layout decomposition and the quad-remeshing of 3D triangle meshes. It has been used in the following projects:
 
 <br/>
 
