@@ -18,3 +18,7 @@ Stefano Nuvoli, Alex Hernandez, Claudio Esperança, [Riccardo Scateni](http://pe
 *SIGGRAPH Asia 2019*
 <br /><br/>
 GitHub repository: [https://github.com/stefanonuvoli/quadmixer](https://github.com/stefanonuvoli/quadmixer)
+
+<br/>
+
+You can see some usage examples in the repositories shown above. In case you need any information or you have any issue, please write to [stefano.nuvoli@gmail.com](mailto:stefano.nuvoli@gmail.com).
