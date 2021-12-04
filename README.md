@@ -4,7 +4,7 @@ This module provides some functionalities for the quad-layout decomposition and 
 <br /><br />
 
 It has been used the following projects:
-<br/><br/>
+<br/>
 ### Reliable Feature-Line Driven Quad-Remeshing
 [Nico Pietroni](https://profiles.uts.edu.au/Nico.Pietroni), Stefano Nuvoli, 
 [Thomas Alderighi](http://vcg.isti.cnr.it/~alderighi/), [Paolo Cignoni](http://vcg.isti.cnr.it/~cignoni/), [Marco Tarini](https://tarini.di.unimi.it/)<br/>
@@ -12,7 +12,7 @@ It has been used the following projects:
 <br/><br/>
 GitHub repository: [https://github.com/stefanonuvoli/quadwild](https://github.com/stefanonuvoli/quadwild)
 
-<br/><br/>
+<br/>
 
 ### QuadMixer: Layout Preserving Blending of Quadrilateral Meshes
 Stefano Nuvoli, Alex Hernandez, Claudio Esperança, [Riccardo Scateni](http://people.unica.it/riccardoscateni/), [Paolo Cignoni](http://vcg.isti.cnr.it/~cignoni/), [Nico Pietroni](https://profiles.uts.edu.au/Nico.Pietroni)<br/>
