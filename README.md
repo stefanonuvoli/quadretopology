@@ -9,7 +9,7 @@ This module provides some functionalities for the quad-layout decomposition and 
 [Thomas Alderighi](http://vcg.isti.cnr.it/~alderighi/), [Paolo Cignoni](http://vcg.isti.cnr.it/~cignoni/), [Marco Tarini](https://tarini.di.unimi.it/)<br/>
 *SIGGRAPH 2021*
 <br/><br/>
-GitHub repository: [https://github.com/stefanonuvoli/quadwild](https://github.com/stefanonuvoli/quadwild)
+GitHub repository: [https://github.com/nicopietroni/quadwild](https://github.com/nicopietroni/quadwild)
 
 ---
 
